@@ -1,3 +1,3 @@
 # Dmitry Vdovichencko
-## Markdown portfolio
-###### Check out with h6 headers
+## Markdown portfolio for web developer
+### I wright code in HTML CSS(SCSS) JS
