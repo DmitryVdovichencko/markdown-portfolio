@@ -1,1 +1,1 @@
-![Dmitry](/profile.jpg)
+![Dmitry](profile.jpg)
